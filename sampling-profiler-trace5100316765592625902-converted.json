@@ -1,0 +1,580 @@
+[
+    {
+        "ts": 52494481590,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "[root]",
+        "cat": "root",
+        "args": {
+            "name": "[root]",
+            "category": "root",
+            "url": null,
+            "line": null,
+            "column": null,
+            "params": null,
+            "allocatedCategory": "root",
+            "allocatedName": "[root]"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "callFunctionReturnFlushedQueue",
+        "cat": "react-native",
+        "args": {
+            "line": 112,
+            "column": 17,
+            "funcLine": "2193",
+            "funcColumn": "14",
+            "name": "callFunctionReturnFlushedQueue(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2195:21)",
+            "category": "JavaScript",
+            "parent": 1,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "callFunctionReturnFlushedQueue"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "__guard",
+        "cat": "react-native",
+        "args": {
+            "line": 367,
+            "column": 10,
+            "funcLine": "2381",
+            "funcColumn": "14",
+            "name": "__guard(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2386:15)",
+            "category": "JavaScript",
+            "parent": 2,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "__guard"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "anonymous",
+        "cat": "react-native",
+        "args": {
+            "line": 113,
+            "column": 26,
+            "funcLine": "2195",
+            "funcColumn": "22",
+            "name": "(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2196:31)",
+            "category": "JavaScript",
+            "parent": 3,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": "module",
+            "allocatedCategory": "react-native",
+            "allocatedName": "anonymous"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "__callFunction",
+        "cat": "react-native",
+        "args": {
+            "line": 423,
+            "column": 32,
+            "funcLine": "2408",
+            "funcColumn": "14",
+            "name": "__callFunction(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2434:36)",
+            "category": "JavaScript",
+            "parent": 4,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": "moduleMethods",
+            "allocatedCategory": "react-native",
+            "allocatedName": "__callFunction"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "[Native] functionPrototypeApply",
+        "cat": "Native",
+        "args": {
+            "name": "[Native] functionPrototypeApply",
+            "category": "Native",
+            "parent": 5,
+            "url": null,
+            "line": null,
+            "column": null,
+            "params": null,
+            "allocatedCategory": "Native",
+            "allocatedName": "[Native] functionPrototypeApply"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "receiveTouches",
+        "cat": "react-native",
+        "args": {
+            "line": 3012,
+            "column": 28,
+            "funcLine": "4510",
+            "funcColumn": "7",
+            "name": "receiveTouches(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4528:34)",
+            "category": "JavaScript",
+            "parent": 6,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "rootNodeID",
+            "allocatedCategory": "react-native",
+            "allocatedName": "receiveTouches"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "_receiveRootNodeIDEvent",
+        "cat": "react-native",
+        "args": {
+            "line": 2892,
+            "column": 17,
+            "funcLine": "4478",
+            "funcColumn": "7",
+            "name": "_receiveRootNodeIDEvent(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4485:23)",
+            "category": "JavaScript",
+            "parent": 7,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "_receiveRootNodeIDEvent"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "batchedUpdates",
+        "cat": "react-native",
+        "args": {
+            "line": 2750,
+            "column": 30,
+            "funcLine": "4411",
+            "funcColumn": "7",
+            "name": "batchedUpdates(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4417:36)",
+            "category": "JavaScript",
+            "parent": 8,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "fn",
+            "allocatedCategory": "react-native",
+            "allocatedName": "batchedUpdates"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "batchedUpdates$1",
+        "cat": "react-native",
+        "args": {
+            "line": 21008,
+            "column": 14,
+            "funcLine": "15039",
+            "funcColumn": "7",
+            "name": "batchedUpdates$1(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:15043:20)",
+            "category": "JavaScript",
+            "parent": 9,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "a",
+            "allocatedCategory": "react-native",
+            "allocatedName": "batchedUpdates$1"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "anonymous",
+        "cat": "react-native",
+        "args": {
+            "line": 2893,
+            "column": 36,
+            "funcLine": "4485",
+            "funcColumn": "24",
+            "name": "(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4486:42)",
+            "category": "JavaScript",
+            "parent": 10,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "topLevelType",
+            "allocatedCategory": "react-native",
+            "allocatedName": "anonymous"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "runExtractedPluginEventsInBatch",
+        "cat": "react-native",
+        "args": {
+            "line": 2942,
+            "column": 4,
+            "funcLine": "4503",
+            "funcColumn": "7",
+            "name": "runExtractedPluginEventsInBatch(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4504:41)",
+            "category": "JavaScript",
+            "parent": 11,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "topLevelType",
+            "allocatedCategory": "react-native",
+            "allocatedName": "runExtractedPluginEventsInBatch"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "extractPluginEvents",
+        "cat": "react-native",
+        "args": {
+            "line": 2920,
+            "column": 8,
+            "funcLine": "4489",
+            "funcColumn": "7",
+            "name": "extractPluginEvents(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4495:63)",
+            "category": "JavaScript",
+            "parent": 12,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "topLevelType",
+            "allocatedCategory": "react-native",
+            "allocatedName": "extractPluginEvents"
+        }
+    },
+    {
+        "ts": 52503557591,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "B",
+        "name": "extractEvents",
+        "cat": "react-native",
+        "args": {
+            "line": 1972,
+            "column": 17,
+            "funcLine": "4065",
+            "funcColumn": "24",
+            "name": "extractEvents(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4065:24)",
+            "category": "JavaScript",
+            "parent": 13,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "extractEvents"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "extractEvents",
+        "cat": "react-native",
+        "args": {
+            "line": 1972,
+            "column": 17,
+            "funcLine": "4065",
+            "funcColumn": "24",
+            "name": "extractEvents(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4065:24)",
+            "category": "JavaScript",
+            "parent": 13,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "extractEvents"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "extractPluginEvents",
+        "cat": "react-native",
+        "args": {
+            "line": 2920,
+            "column": 8,
+            "funcLine": "4489",
+            "funcColumn": "7",
+            "name": "extractPluginEvents(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4495:63)",
+            "category": "JavaScript",
+            "parent": 12,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "topLevelType",
+            "allocatedCategory": "react-native",
+            "allocatedName": "extractPluginEvents"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "runExtractedPluginEventsInBatch",
+        "cat": "react-native",
+        "args": {
+            "line": 2942,
+            "column": 4,
+            "funcLine": "4503",
+            "funcColumn": "7",
+            "name": "runExtractedPluginEventsInBatch(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4504:41)",
+            "category": "JavaScript",
+            "parent": 11,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "topLevelType",
+            "allocatedCategory": "react-native",
+            "allocatedName": "runExtractedPluginEventsInBatch"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "anonymous",
+        "cat": "react-native",
+        "args": {
+            "line": 2893,
+            "column": 36,
+            "funcLine": "4485",
+            "funcColumn": "24",
+            "name": "(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4486:42)",
+            "category": "JavaScript",
+            "parent": 10,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "topLevelType",
+            "allocatedCategory": "react-native",
+            "allocatedName": "anonymous"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "batchedUpdates$1",
+        "cat": "react-native",
+        "args": {
+            "line": 21008,
+            "column": 14,
+            "funcLine": "15039",
+            "funcColumn": "7",
+            "name": "batchedUpdates$1(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:15043:20)",
+            "category": "JavaScript",
+            "parent": 9,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "a",
+            "allocatedCategory": "react-native",
+            "allocatedName": "batchedUpdates$1"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "batchedUpdates",
+        "cat": "react-native",
+        "args": {
+            "line": 2750,
+            "column": 30,
+            "funcLine": "4411",
+            "funcColumn": "7",
+            "name": "batchedUpdates(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4417:36)",
+            "category": "JavaScript",
+            "parent": 8,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "fn",
+            "allocatedCategory": "react-native",
+            "allocatedName": "batchedUpdates"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "_receiveRootNodeIDEvent",
+        "cat": "react-native",
+        "args": {
+            "line": 2892,
+            "column": 17,
+            "funcLine": "4478",
+            "funcColumn": "7",
+            "name": "_receiveRootNodeIDEvent(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4485:23)",
+            "category": "JavaScript",
+            "parent": 7,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "_receiveRootNodeIDEvent"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "receiveTouches",
+        "cat": "react-native",
+        "args": {
+            "line": 3012,
+            "column": 28,
+            "funcLine": "4510",
+            "funcColumn": "7",
+            "name": "receiveTouches(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:4528:34)",
+            "category": "JavaScript",
+            "parent": 6,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\Renderer\\implementations\\ReactNativeRenderer-dev.js",
+            "params": "rootNodeID",
+            "allocatedCategory": "react-native",
+            "allocatedName": "receiveTouches"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "[Native] functionPrototypeApply",
+        "cat": "Native",
+        "args": {
+            "name": "[Native] functionPrototypeApply",
+            "category": "Native",
+            "parent": 5,
+            "url": null,
+            "line": null,
+            "column": null,
+            "params": null,
+            "allocatedCategory": "Native",
+            "allocatedName": "[Native] functionPrototypeApply"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "__callFunction",
+        "cat": "react-native",
+        "args": {
+            "line": 423,
+            "column": 32,
+            "funcLine": "2408",
+            "funcColumn": "14",
+            "name": "__callFunction(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2434:36)",
+            "category": "JavaScript",
+            "parent": 4,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": "moduleMethods",
+            "allocatedCategory": "react-native",
+            "allocatedName": "__callFunction"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "anonymous",
+        "cat": "react-native",
+        "args": {
+            "line": 113,
+            "column": 26,
+            "funcLine": "2195",
+            "funcColumn": "22",
+            "name": "(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2196:31)",
+            "category": "JavaScript",
+            "parent": 3,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": "module",
+            "allocatedCategory": "react-native",
+            "allocatedName": "anonymous"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "__guard",
+        "cat": "react-native",
+        "args": {
+            "line": 367,
+            "column": 10,
+            "funcLine": "2381",
+            "funcColumn": "14",
+            "name": "__guard(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2386:15)",
+            "category": "JavaScript",
+            "parent": 2,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "__guard"
+        }
+    },
+    {
+        "ts": 52503572776,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "callFunctionReturnFlushedQueue",
+        "cat": "react-native",
+        "args": {
+            "line": 112,
+            "column": 17,
+            "funcLine": "2193",
+            "funcColumn": "14",
+            "name": "callFunctionReturnFlushedQueue(http://10.0.2.2:8081/index.bundle?platform=android&dev=true&minify=false&app=com.test&modulesOnly=false&runModule=true:2195:21)",
+            "category": "JavaScript",
+            "parent": 1,
+            "url": "D:\\projects\\react-native\\test\\node_modules\\react-native\\Libraries\\BatchedBridge\\MessageQueue.js",
+            "params": null,
+            "allocatedCategory": "react-native",
+            "allocatedName": "callFunctionReturnFlushedQueue"
+        }
+    },
+    {
+        "ts": 52519427043,
+        "pid": 22755,
+        "tid": 22819,
+        "ph": "E",
+        "name": "[root]",
+        "cat": "root",
+        "args": {
+            "name": "[root]",
+            "category": "root",
+            "url": null,
+            "line": null,
+            "column": null,
+            "params": null,
+            "allocatedCategory": "root",
+            "allocatedName": "[root]"
+        }
+    }
+]
